@@ -1,4 +1,4 @@
-# SQL Injection Attack Lab (SEED Labs)
+# SQL Injection Attack Lab
 
 This project demonstrates SQL Injection vulnerabilities and exploitation techniques using a custom vulnerable web application built for SEED Labs.
 
