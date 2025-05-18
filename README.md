@@ -25,23 +25,4 @@ This project demonstrates SQL Injection vulnerabilities and exploitation techniq
 ## 🛡️ Mitigation
 - Used PHP's `prepare()` and `bind_param()` methods to eliminate SQL injection risks.
 
-## 🖼️ Screenshots
-See `setup/screenshots/` for proof-of-concept attack images and successful fixes.
 
-## 📁 Folder Breakdown
-| Folder         | Description |
-|----------------|-------------|
-| `setup/`       | Docker setup and lab configuration |
-| `attack_scripts/` | curl payloads used for command-line injection |
-| `patched/`     | Secured versions of scripts using prepared statements |
-| `report/`      | Assignment write-up and observations |
-
-## 📄 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
-
----
-
-## 🔗 References
-- [SEED Labs - SQL Injection](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/)
-- [W3Schools - SQL Injection](https://www.w3schools.com/sql/sql_injection.asp)
